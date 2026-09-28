@@ -27,3 +27,6 @@ Proyek ini merupakan aplikasi **Web Calculator** sederhana berbasis web yang dib
 4. Masukkan angka kedua/berikutnya.
 5. Tekan tombol **`=`** untuk melihat hasil perhitungan.
 6. Tekan tombol **`C`** atau **`AC`** untuk membersihkan layar dan memulai perhitungan baru.
+
+Tambahan :
+"kalimat ini merupakan bagian untuk menguji penyelasaian konflik antar branch"
