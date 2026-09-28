@@ -222,6 +222,8 @@ Opsi `-I` (`--head`) menginstruksikan `curl` mengirimkan permintaan dengan metod
 |:---|:---|
 | **Alat** | AI Gemini (fitur chat) |
 | **Perintah utama / bagian yang digunakan** | Diskusi perencanaan ulang struktur kegiatan praktikum, konsultasi struktur laporan, serta konsultasi cara membaca pesan *error* Git (misalnya `fatal: invalid reference: main` dan konflik *merge*) |
-| **Cara memverifikasi** | Seluruh saran dari AI **tidak langsung ditulis ke laporan**; setiap perintah dijalankan ulang di PowerShell/terminal, hasilnya dibandingkan dengan keluaran aktual (versi Node.js/npm/Git, hasil `git log`, kode status HTTP, dan keluaran `curl`), serta hasil pengamatan DevTools dicek langsung di peramban sebelum dicatat |
+| **Cara memverifikasi** | Seluruh saran dari AI **tidak langsung ditulis ke laporan**; setiap perintah dijalankan ulang di PowerShell/terminal, hasilnya dibandingkan dengan keluaran aktual (versi Node.js/npm/Git, hasil `git log`, kode status HTTP, dan keluaran `curl`), serta hasil pengamatan DevTools dicek langsung di peramban sebelum dicatat | 
+
+https://share.gemini.google/tQ62dc4klbRO
 
 > Prinsip yang dipegang: AI digunakan sebagai alat diskusi dan pembenaran arah pengerjaan, sedangkan kebenaran isi laporan tetap berdasarkan hasil praktikum yang benar-benar dijalankan dan diverifikasi mandiri.
