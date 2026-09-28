@@ -28,5 +28,5 @@ Proyek ini merupakan aplikasi **Web Calculator** sederhana berbasis web yang dib
 5. Tekan tombol **`=`** untuk melihat hasil perhitungan.
 6. Tekan tombol **`C`** atau **`AC`** untuk membersihkan layar dan memulai perhitungan baru.
 
-TAMBAHAN : 
-"KALIMAT INI ADALAH KALIMAT YANG ADA DI BRANCH MAIN/MASTER"
+Tambahan :
+"kalimat ini merupakan bagian untuk menguji penyelasaian konflik antar branch"
