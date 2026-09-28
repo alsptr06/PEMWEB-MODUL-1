@@ -226,4 +226,4 @@ Opsi `-I` (`--head`) menginstruksikan `curl` mengirimkan permintaan dengan metod
 
 https://share.gemini.google/tQ62dc4klbRO
 
-> Prinsip yang dipegang: AI digunakan sebagai alat diskusi dan pembenaran arah pengerjaan, sedangkan kebenaran isi laporan tetap berdasarkan hasil praktikum yang benar-benar dijalankan dan diverifikasi mandiri.
+> Prinsip yang dipegang: AI digunakan sebagai alat diskusi dan pembenaran arah pengerjaan, sedangkan kebenaran isi laporan tetap berdasarkan hasil praktikum yang benar-benar dijalankan dan diverifikasi mandiri .
